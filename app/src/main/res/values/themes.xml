@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Manifest theme (splash / window background). Compose draws the real UI. -->
+    <style name="Theme.PocketHost" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/slate_950</item>
+        <item name="android:navigationBarColor">@color/slate_950</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/slate_950</item>
+    </style>
+</resources>
