@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher foreground: a three-tier server stack glyph in brand emerald. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,24 h48 a7,7 0 0 1 7,7 v5 a7,7 0 0 1 -7,7 H30 a7,7 0 0 1 -7,-7 v-5 a7,7 0 0 1 7,-7 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,46 h48 a7,7 0 0 1 7,7 v5 a7,7 0 0 1 -7,7 H30 a7,7 0 0 1 -7,-7 v-5 a7,7 0 0 1 7,-7 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,68 h48 a7,7 0 0 1 7,7 v5 a7,7 0 0 1 -7,7 H30 a7,7 0 0 1 -7,-7 v-5 a7,7 0 0 1 7,-7 z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M33,33.5 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M33,55.5 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M33,77.5 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+</vector>
