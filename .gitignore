@@ -1,0 +1,18 @@
+# Android
+*.iml
+.gradle/
+/local.properties
+.DS_Store
+/build/
+/app/build/
+
+# Native stack build artifacts (rebuilt by CI from Termux packages)
+native/debs/
+native/*.tar.gz
+native/*.zip
+native/Packages
+native/pkg_stage/
+native/stage/
+
+# Local toolchains (JDK/SDK downloaded for local builds only)
+tools/
